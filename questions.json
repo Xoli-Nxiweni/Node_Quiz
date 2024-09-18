@@ -1,0 +1,65 @@
+{
+    "quiz": [
+      {
+        "text": "What is the capital of France?",
+        "choices": ["A) Berlin", "B) Madrid", "C) Paris", "D) Rome"],
+        "answer": "C",
+        "explanation": "The correct answer is C) Paris. Paris is the capital and most populous city of France, known for its culture, history, and landmarks like the Eiffel Tower."
+      },
+      {
+        "text": "Who is the CEO of Tesla?",
+        "choices": ["A) Jeff Bezos", "B) Elon Musk", "C) Bill Gates", "D) Sundar Pichai"],
+        "answer": "B",
+        "explanation": "The correct answer is B) Elon Musk. Musk became the CEO of Tesla in 2008, and the company is known for producing electric cars and renewable energy solutions."
+      },
+      {
+        "text": "What is the largest planet in our solar system?",
+        "choices": ["A) Earth", "B) Mars", "C) Jupiter", "D) Saturn"],
+        "answer": "C",
+        "explanation": "The correct answer is C) Jupiter. Jupiter is the largest planet in our solar system, more than twice as massive as all the other planets combined."
+      },
+      {
+        "text": "What is the chemical symbol for water?",
+        "choices": ["A) O2", "B) CO2", "C) H2O", "D) NaCl"],
+        "answer": "C",
+        "explanation": "The correct answer is C) H2O. Water consists of two hydrogen atoms bonded to one oxygen atom."
+      },
+      {
+        "text": "In which year did the Titanic sink?",
+        "choices": ["A) 1912", "B) 1905", "C) 1915", "D) 1920"],
+        "answer": "A",
+        "explanation": "The correct answer is A) 1912. The Titanic sank in 1912 during its maiden voyage after hitting an iceberg."
+      },
+      {
+        "text": "Which planet is known as the Red Planet?",
+        "choices": ["A) Venus", "B) Mars", "C) Saturn", "D) Mercury"],
+        "answer": "B",
+        "explanation": "The correct answer is B) Mars. Mars is often referred to as the Red Planet because of its reddish appearance due to iron oxide on its surface."
+      },
+      {
+        "text": "Which country is home to the Great Barrier Reef?",
+        "choices": ["A) USA", "B) Brazil", "C) Australia", "D) India"],
+        "answer": "C",
+        "explanation": "The correct answer is C) Australia. The Great Barrier Reef is the world's largest coral reef system, located off the coast of Queensland, Australia."
+      },
+      {
+        "text": "What is the square root of 64?",
+        "choices": ["A) 6", "B) 7", "C) 8", "D) 9"],
+        "answer": "C",
+        "explanation": "The correct answer is C) 8. The square root of 64 is 8, since 8 * 8 equals 64."
+      },
+      {
+        "text": "Who painted the Mona Lisa?",
+        "choices": ["A) Pablo Picasso", "B) Leonardo da Vinci", "C) Vincent van Gogh", "D) Claude Monet"],
+        "answer": "B",
+        "explanation": "The correct answer is B) Leonardo da Vinci. He painted the Mona Lisa, which is one of the most famous artworks in the world."
+      },
+      {
+        "text": "Which element is found in abundance in the Earth's core?",
+        "choices": ["A) Gold", "B) Iron", "C) Silver", "D) Copper"],
+        "answer": "B",
+        "explanation": "The correct answer is B) Iron. Earth's core is primarily composed of iron and nickel."
+      }
+    ]
+  }
+  
