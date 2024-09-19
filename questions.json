@@ -1,65 +1,70 @@
 {
-    "quiz": [
-      {
-        "text": "What is the capital of France?",
-        "choices": ["A) Berlin", "B) Madrid", "C) Paris", "D) Rome"],
-        "answer": "C",
-        "explanation": "The correct answer is C) Paris. Paris is the capital and most populous city of France, known for its culture, history, and landmarks like the Eiffel Tower."
-      },
-      {
-        "text": "Who is the CEO of Tesla?",
-        "choices": ["A) Jeff Bezos", "B) Elon Musk", "C) Bill Gates", "D) Sundar Pichai"],
-        "answer": "B",
-        "explanation": "The correct answer is B) Elon Musk. Musk became the CEO of Tesla in 2008, and the company is known for producing electric cars and renewable energy solutions."
-      },
-      {
-        "text": "What is the largest planet in our solar system?",
-        "choices": ["A) Earth", "B) Mars", "C) Jupiter", "D) Saturn"],
-        "answer": "C",
-        "explanation": "The correct answer is C) Jupiter. Jupiter is the largest planet in our solar system, more than twice as massive as all the other planets combined."
-      },
-      {
-        "text": "What is the chemical symbol for water?",
-        "choices": ["A) O2", "B) CO2", "C) H2O", "D) NaCl"],
-        "answer": "C",
-        "explanation": "The correct answer is C) H2O. Water consists of two hydrogen atoms bonded to one oxygen atom."
-      },
-      {
-        "text": "In which year did the Titanic sink?",
-        "choices": ["A) 1912", "B) 1905", "C) 1915", "D) 1920"],
-        "answer": "A",
-        "explanation": "The correct answer is A) 1912. The Titanic sank in 1912 during its maiden voyage after hitting an iceberg."
-      },
-      {
-        "text": "Which planet is known as the Red Planet?",
-        "choices": ["A) Venus", "B) Mars", "C) Saturn", "D) Mercury"],
-        "answer": "B",
-        "explanation": "The correct answer is B) Mars. Mars is often referred to as the Red Planet because of its reddish appearance due to iron oxide on its surface."
-      },
-      {
-        "text": "Which country is home to the Great Barrier Reef?",
-        "choices": ["A) USA", "B) Brazil", "C) Australia", "D) India"],
-        "answer": "C",
-        "explanation": "The correct answer is C) Australia. The Great Barrier Reef is the world's largest coral reef system, located off the coast of Queensland, Australia."
-      },
-      {
-        "text": "What is the square root of 64?",
-        "choices": ["A) 6", "B) 7", "C) 8", "D) 9"],
-        "answer": "C",
-        "explanation": "The correct answer is C) 8. The square root of 64 is 8, since 8 * 8 equals 64."
-      },
-      {
-        "text": "Who painted the Mona Lisa?",
-        "choices": ["A) Pablo Picasso", "B) Leonardo da Vinci", "C) Vincent van Gogh", "D) Claude Monet"],
-        "answer": "B",
-        "explanation": "The correct answer is B) Leonardo da Vinci. He painted the Mona Lisa, which is one of the most famous artworks in the world."
-      },
-      {
-        "text": "Which element is found in abundance in the Earth's core?",
-        "choices": ["A) Gold", "B) Iron", "C) Silver", "D) Copper"],
-        "answer": "B",
-        "explanation": "The correct answer is B) Iron. Earth's core is primarily composed of iron and nickel."
-      }
-    ]
-  }
-  
+  "quiz": [
+    {
+      "text": "What is Redux Toolkit used for in a React application?",
+      "choices": ["A) Managing API requests", "B) Managing state", "C) Handling routing", "D) Styling components"],
+      "answer": "B",
+      "explanation": "The correct answer is B) Managing state. Redux Toolkit simplifies the process of managing state in a React application by providing tools for creating and managing Redux stores and reducers more efficiently."
+    },
+    {
+      "text": "Which method in Redux Toolkit is used to define a slice of state?",
+      "choices": ["A) createStore", "B) createSlice", "C) configureStore", "D) createReducer"],
+      "answer": "B",
+      "explanation": "The correct answer is B) createSlice. The createSlice function in Redux Toolkit is used to define a slice of the Redux state and generate actions and reducers automatically."
+    },
+    {
+      "text": "In Node.js, which module is commonly used to handle HTTP requests and responses?",
+      "choices": ["A) fs", "B) http", "C) path", "D) os"],
+      "answer": "B",
+      "explanation": "The correct answer is B) http. The http module in Node.js provides utilities for creating HTTP servers and handling requests and responses."
+    },
+    {
+      "text": "What is the purpose of the 'useSelector' hook in Redux?",
+      "choices": ["A) Dispatch actions", "B) Access Redux state", "C) Create a Redux store", "D) Define a Redux slice"],
+      "answer": "B",
+      "explanation": "The correct answer is B) Access Redux state. The useSelector hook is used to access the Redux store's state in a React component."
+    },
+    {
+      "text": "Which function in Node.js is used to create a server that listens to incoming requests?",
+      "choices": ["A) createServer", "B) listen", "C) startServer", "D) server"],
+      "answer": "A",
+      "explanation": "The correct answer is A) createServer. The createServer function in Node.js is used to create an HTTP server that can listen for incoming requests."
+    },
+    {
+      "text": "What does the 'createAsyncThunk' function in Redux Toolkit help with?",
+      "choices": ["A) Defining reducers", "B) Handling asynchronous actions", "C) Configuring the store", "D) Creating slices"],
+      "answer": "B",
+      "explanation": "The correct answer is B) Handling asynchronous actions. The createAsyncThunk function in Redux Toolkit simplifies handling asynchronous actions by automatically dispatching pending, fulfilled, and rejected actions."
+    },
+    {
+      "text": "In Node.js, what does the 'require' function do?",
+      "choices": ["A) Import modules", "B) Export modules", "C) Start a server", "D) Handle streams"],
+      "answer": "A",
+      "explanation": "The correct answer is A) Import modules. The require function is used to import modules and packages into a Node.js application."
+    },
+    {
+      "text": "Which Redux Toolkit function is used to configure the store and apply middleware?",
+      "choices": ["A) createSlice", "B) configureStore", "C) createStore", "D) applyMiddleware"],
+      "answer": "B",
+      "explanation": "The correct answer is B) configureStore. The configureStore function in Redux Toolkit is used to create the Redux store and apply middleware automatically."
+    },
+    {
+      "text": "What is the main purpose of the 'useDispatch' hook in Redux?",
+      "choices": ["A) Dispatch actions", "B) Access state", "C) Create a Redux store", "D) Define slices"],
+      "answer": "A",
+      "explanation": "The correct answer is A) Dispatch actions. The useDispatch hook is used to dispatch actions to the Redux store in a React component."
+    },
+    {
+      "text": "Which module in Node.js provides utilities for file system operations?",
+      "choices": ["A) http", "B) fs", "C) path", "D) url"],
+      "answer": "B",
+      "explanation": "The correct answer is B) fs. The fs module in Node.js provides functions for interacting with the file system, including reading and writing files."
+    },
+    {
+      "text": "How can you access environment variables in a Node.js application?",
+      "choices": ["A) process.env", "B) global.env", "C) config.env", "D) settings.env"],
+      "answer": "A",
+      "explanation": "The correct answer is A) process.env. Environment variables in a Node.js application are accessed using the process.env object."
+    }
+  ]
+}
